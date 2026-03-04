@@ -59,11 +59,13 @@ _It wasn't meant to be personal, but it was really personal_
 
 Before this scene, the race defies a lot of expectations.  It leaves out all noise but the footsteps, wind, and announcer.  A bit of an eerie silence, that then further cuts out into a dull muted tension as soon as Jungle Pocket starts her spurt, which is interrupted by Agnes
 
-We get a long tone shift down of the wind time and motion stops to show how far Agnes gets ahead until we reach pure silence.
+We get a long tone shift down of the wind as time and motion stops to show how far Agnes gets ahead until we reach complete silence.
 
-And that's something I really appreciate about the sound design of the movie - there's no surprises or jumpscares.  All of the sound ramps up OR down you get visual notices and clues beforehand.
+And that's something I really appreciate about the sound design of the movie - there's no surprises or jumpscares.  All of the sound ramps up OR down you come with visual notices and clues beforehand.
 
 And once that silence hits, we get the final insult to injury as a piece of mud flung up by Agnes lands squarely on Jungle Pocket's cheek with a splat.  No other sounds.
+
+Just pure defeaning silence and shock.
 
 ### The vision of Agnes' foot breaking in the Satsuki Sho
 ![Ouch]({{ site.baseurl }}/assets/images/boane/footbreak.png)
