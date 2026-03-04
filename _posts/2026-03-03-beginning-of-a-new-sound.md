@@ -12,11 +12,12 @@ categories: honse
 
 The premise of animation is that you _don't_ have to stick to real world rules.  You can have impossible fishbowl lens, tracking shots that make no sense, and reality that bends in such a way that even computer graphics would struggle to comprehend all the rules breaking.  It allows you to transfer from the canvas of the human mind directly onto film, and it can communicate emotion so incredibly effectively because of that.
 
-Normally, that applies to the art direction with fantastical scenes.  The sound design is often more reserved, and becomes a foil to ground the imagery in reality.
+Normally, that applies to the art direction with fantastical scenes.  The sound design is often more reserved, and becomes a foil to ground the imagery and avoid separating too hard from reality.
 
 Because of that, it's rare that I see sound design completely steal the show for realizing how absolutely bonkers the imagery is getting and not only playing along with it, but exceeding it entirely.
 
 ![TM Opera Farm]({{ site.baseurl }}/assets/images/boane/tmoperagoat.png)
+_Images that you can hear_
 
 ### Umamusu... what?
 
@@ -27,3 +28,21 @@ The premise is aggressively dumb.  But I like dumb things, especially those that
 Small mention that the elements it's based off of - horse racing, gambling associated with that, idol culture, are problematic.  The setting does it absolute best to divest itself of those associations, but they are still there.  For example, gambling is not permitted at umamusume races.
 
 Because of that, and other reasons, this isn't an accessible movie.  Without knowledge of Japanese horse racing, you'll be left wondering why the stakes are so high for the athletes even if the time pressure and fear of injury is relatable.  And the cast of background characters loses all sentimental value if you aren't already familiar with them.
+
+### OK, so what's so special then?
+
+It's not the visual design.  It's great, but you expect this for a big-budget anime movie production.  
+It's not the plot, which is woefully predictable and hamstrung by it needing to fit into the sports anime mold.  
+It's not the characters, where they dropped the ball entirely with one of the main characters having too much presence to ignore but too little screen time to understand.
+
+![I should have gotten more screen time]({{ site.baseurl }}/assets/images/boane/angrycafe.png)
+_Nobody knows why I exist in the movie_
+
+It's the absolutely surreal sound design, standing out in 5 locations in particular that I'm going to do case study breakdowns of:
+- Agnes' spurt in the Hopeful Stakes
+- The vision of Agnes' foot breaking in the Satsuki Sho
+- TM Opera O's victory in the Arima Kinen
+- Jungle Pocket's roar in the Japanese Derby
+- Jungle Pocket shattering her self doubt in the Japan Cup
+
+It's sound design that only be properly layered and expressed in a theater, and that's what makes this so unfortunate - after this week's showing, I don't know if  this movie will ever come back to theaters.  It's just way too niche.
