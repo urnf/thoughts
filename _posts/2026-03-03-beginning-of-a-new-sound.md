@@ -7,8 +7,6 @@ categories: honse
 ## The 7/10 movie I watched 6 times at the theater.
 ![RAAAAAAAAAAAAAAAGHHH]({{ site.baseurl }}/assets/images/boane/boanestart.png)
 
-### A review of Umamusume: Pretty Derby - Beginning of a New Era
-
 The premise of animation is that you _don't_ have to stick to real world rules.  You can have impossible fishbowl lens, tracking shots that make no sense, and reality that bends in such a way that even computer graphics would struggle to comprehend all the rules breaking.  It allows you to transfer from the canvas of the human mind directly onto film, and it can communicate emotion so incredibly effectively because of that.
 
 Normally, that applies to the art direction with fantastical scenes.  The sound design is often more reserved, and becomes a foil to ground the imagery and avoid separating too hard from reality.
@@ -59,17 +57,26 @@ _It wasn't meant to be personal, but it was really personal_
 
 Before this scene, the race defies a lot of expectations.  It leaves out all noise but the footsteps, wind, and announcer.  A bit of an eerie silence, that then further cuts out into a dull muted tension as soon as Jungle Pocket starts her spurt, which is interrupted by Agnes
 
-We get a long tone shift down of the wind as time and motion stops to show how far Agnes gets ahead until we reach complete silence.
+We get a long tonal shift down of the wind as time and motion stops to show how far Agnes gets ahead until we reach absolute dead silence in the theater.
 
-And that's something I really appreciate about the sound design of the movie - there's no surprises or jumpscares.  All of the sound ramps up OR down you come with visual notices and clues beforehand.
+And that's something I really appreciate about the sound design of the movie - there's no surprises or jumpscares.  All of the sound ramps up OR down come with visual notices and cues beforehand.
 
-And once that silence hits, we get the final insult to injury as a piece of mud flung up by Agnes lands squarely on Jungle Pocket's cheek with a splat.  No other sounds.
+Once that silence hits, we get the final insult to injury as a piece of mud flung up by Agnes lands squarely on Jungle Pocket's cheek with a singular "splat" and nothing else.
 
-Just pure defeaning silence and shock.
+Just pure deafening silence.
 
-### The vision of Agnes' foot breaking in the Satsuki Sho
+### The vision of Agnes' foot breaking in the Yayoi Sho
 ![Ouch]({{ site.baseurl }}/assets/images/boane/footbreak.png)
 _Ouch_
+
+Leading up to this the sound of the wind whipping against the camera, a passenger jet flying overhead, and static flickering from the soundtrack all converge into an absolutely indescribably combination of noise that, despite what you see on the screen of Agnes winning, a cacophony that forces every sense of your body into a mode of "something is _very_ wrong here".
+
+![Beyond the limits]({{ site.baseurl }}/assets/images/boane/unhinged.png)
+And that's before everything careens off the rails.
+
+The static merges into a new roar of a engine ramping up and glass reverbating - leading up into a ear-splitting shattering of glass with even more static buildup before it just... cuts out.
+
+Movies at the theater normally have a couple rules: don't play high pitched noises at a loud volume.  This breaks that rule briefly at a decisive moment to hammer that sense in unease it.
 
 ### TM Opera O's victory in the Arima Kinen
 ![TMTMTMTMTM]({{ site.baseurl }}/assets/images/boane/tmoperagoat3.png)
