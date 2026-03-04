@@ -31,9 +31,12 @@ Because of that, and other reasons, this isn't an accessible movie.  Without kno
 
 ### OK, so what's so special then?
 
-It's not the visual design.  It's great, but you expect this for a big-budget anime movie production.  
-It's not the plot, which is woefully predictable and hamstrung by it needing to fit into the sports anime mold.  
+It's not the visual design.  It's great, but you expect this for a big-budget anime movie production.
+
+It's not the plot, which is woefully predictable and hamstrung by it needing to fit into the sports anime mold.
+
 It's not the characters, where they dropped the ball entirely with one of the main characters having too much presence to ignore but too little screen time to understand.
+
 
 ![I should have gotten more screen time]({{ site.baseurl }}/assets/images/boane/angrycafe.png)
 _Nobody knows why I exist in the movie_
@@ -46,3 +49,12 @@ It's the absolutely surreal sound design, standing out in 5 locations in particu
 - Jungle Pocket shattering her self doubt in the Japan Cup
 
 It's sound design that only be properly layered and expressed in a theater, and that's what makes this so unfortunate - after this week's showing, I don't know if  this movie will ever come back to theaters.  It's just way too niche.
+
+### Agnes' spurt in the Hopeful Stakes
+![Destroyed]({{ site.baseurl }}/assets/images/boane/dusted.png)
+_Absolutely dusted_
+
+
+### Final Thoughts
+
+This is a 7/10, and like Jungle Pocket, it's not winning every race.  The plotting is too scattered, and characterization too rushed.  But it doesn't have to win everything.  It pours its heart into the places it matters, and where it wins, it wins big.  It takes gambles and puts its artistic vision on the line in places that matter.  A 9/10 or 10/10 movie I can watch once, and understand what the cultural zeitgeist is like, and move on.  A 7/10 that has 4/10 moments and 12/10 moments... well, that tickles a fancy.
