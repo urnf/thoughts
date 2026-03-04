@@ -69,14 +69,14 @@ Just pure deafening silence.
 ![Ouch]({{ site.baseurl }}/assets/images/boane/footbreak.png)
 _Ouch_
 
-Leading up to this the sound of the wind whipping against the camera, a passenger jet flying overhead, and static flickering from the soundtrack all converge into an absolutely indescribably combination of noise that, despite what you see on the screen of Agnes winning, a cacophony that forces every sense of your body into a mode of "something is _very_ wrong here".
+Leading up to this is the sound of the wind whipping against the camera, a passenger jet flying overhead, and static flickering from the soundtrack that all converge into an absolutely indescribably combination of noise.  Despite what you see on the screen of Agnes winning, you're thrust into a cacophony that forces every sense of your body into a mode of "something is _very_ wrong here".
 
 ![Beyond the limits]({{ site.baseurl }}/assets/images/boane/unhinged.png)
 And that's before everything careens off the rails.
 
-The static merges into a new roar of a engine ramping up and glass reverbating - leading up into a ear-splitting shattering of glass with even more static buildup before it just... cuts out.
+The static merges into a new roar of a engine ramping up and glass reverberating - leading up into a ear-splitting shattering of glass with even more static buildup before it just... cuts out.
 
-Movies at the theater normally have a couple rules: don't play high pitched noises at a loud volume.  This breaks that rule briefly at a decisive moment to hammer that sense in unease it.
+Movies at the theater normally have a couple rules: don't play high pitched noises at a loud volume.  This breaks that rule briefly at a decisive moment to hammer in that sense of unease.
 
 ### TM Opera O's victory in the Arima Kinen
 ![TMTMTMTMTM]({{ site.baseurl }}/assets/images/boane/tmoperagoat3.png)
@@ -96,7 +96,7 @@ It truly feels like for a moment, TM Opera O is bending reality itself.
 
 Then she crosses the finish line, but it doesn't end there.
 
-The screeching wind and announcer's completely impossible barking merge together into a terrifyingly loud WHOOOOSH of her cape as she swings around and then diretcly moves into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
+The screeching wind and announcer's completely impossible barking merge together into a terrifyingly loud WHOOOOSH of her cape as she swings around and then directly moves into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
 
 ### Jungle Pocket's roar in the Japanese Derby
 ![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
