@@ -14,7 +14,7 @@ Normally, that applies to the art direction with fantastical scenes.  The sound 
 
 Because of that, it's rare that I see sound design completely steal the show for realizing how absolutely bonkers the imagery is getting and not only playing along with it, but exceeding it entirely.
 
-![TM Opera Farm](/assets/images/boane/tmoperagoat.png)
+![TM Opera Farm]({{ site.baseurl }}/assets/images/boane/tmoperagoat.png)
 
 ### Umamusu... what?
 
