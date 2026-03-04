@@ -55,6 +55,8 @@ _Absolutely dusted_
 ![Splat]({{ site.baseurl }}/assets/images/boane/splat.png)
 _Splat_
 
+Before this scene, the race defies a lot of expectations.  It leaves out all noise but the footsteps, wind, and announcer.  A bit of an eerie silence, that then further cuts out into a dull muted tension as soon as Jungle Pocket starts her spurt, which is interrupted by Agnes
+
 ### The vision of Agnes' foot breaking in the Satsuki Sho
 ![Ouch]({{ site.baseurl }}/assets/images/boane/footbreak.png)
 _Ouch_
@@ -66,6 +68,18 @@ _TM-O-TM-O-TM-O-TM-O_
 _WHOOOOOOOOOOOOOOOOOOOOOOOOOSH_
 ![TMTMTMTMTM]({{ site.baseurl }}/assets/images/boane/tmoperagoat.png)
 _BLIIIIING_
+
+I can't properly describe how incredible this sounds.  I'm trying to find clips on youtube but they all have trash soundtracks layered on top, much akin to the Ecce Homo getting painted over.  
+
+It's nothing but the sound of a grating wind, no soundtrack, and the race announcer barking in a surreal fashion.  
+
+And when she speeds up, the wind also picks up, and when the image starts to distort the sound _also_ distorts and becomes an intensely uncomfortable mix wind, announcer and we start entering a purely emotional representation completely disjointed from reality.
+
+It truly feels like for a moment, TM Opera O is bending reality itself.
+
+Then she crosses the finish line, but it doesn't end there.
+
+The wind and announcer's completely surreal, impossible barking of TM transitions directly into the terrifyingly loud WHOOOOSH of her cape as she swings around and then diretly into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
 
 ### Jungle Pocket's roar in the Japanese Derby
 ![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
