@@ -48,7 +48,7 @@ It's the absolutely surreal sound design, standing out in 5 locations in particu
 - Jungle Pocket's roar in the Japanese Derby
 - Jungle Pocket shattering her self doubt in the Japan Cup
 
-It's sound design that only be properly layered and expressed in a theater, and that's what makes this so unfortunate - after this week's showing, I don't know if  this movie will ever come back to theaters.  It's just way too niche.
+It's sound design that can only be properly layered and expressed in a theater, and that's what makes this so unfortunate - after this week's showing, I don't know if  this movie will ever come back to theaters.  It's just way too niche.
 
 ### Agnes' spurt in the Hopeful Stakes
 ![Destroyed]({{ site.baseurl }}/assets/images/boane/dusted.png)
