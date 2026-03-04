@@ -6,3 +6,5 @@ categories: honse
 ---
 
 Just a test to see what this looks like
+
+![TM Opera Farm](/assets/images/boane/tmoperagoat.png)
