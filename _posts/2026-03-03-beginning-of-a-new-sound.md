@@ -52,10 +52,36 @@ It's sound design that can only be properly layered and expressed in a theater, 
 ### Agnes' spurt in the Hopeful Stakes
 ![Destroyed]({{ site.baseurl }}/assets/images/boane/dusted.png)
 _Absolutely dusted_
+![Splat]({{ site.baseurl }}/assets/images/boane/splat.png)
+_Splat_
 
+### The vision of Agnes' foot breaking in the Satsuki Sho
+![Ouch]({{ site.baseurl }}/assets/images/boane/footbreak.png)
+_Ouch_
+
+### TM Opera O's victory in the Arima Kinen
+![TMTMTMTMTM]({{ site.baseurl }}/assets/images/boane/tmoperagoat3.png)
+_TM-O-TM-O-TM-O-TM-O_
+![TMTMTMTMTM]({{ site.baseurl }}/assets/images/boane/tmoperagoat2.png)
+_WHOOOOOOOOOOOOOOOOOOOOOOOOOSH_
+![TMTMTMTMTM]({{ site.baseurl }}/assets/images/boane/tmoperagoat.png)
+_BLIIIIING_
+
+### Jungle Pocket's roar in the Japanese Derby
+![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
+_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA_
+
+### Jungle Pocket shattering her self doubt in the Japan Cup
+![Not dragonball z]({{ site.baseurl }}/assets/images/boane/break3.png)
+![I swear]({{ site.baseurl }}/assets/images/boane/break2.png)
+![It's really not]({{ site.baseurl }}/assets/images/boane/break1.png)
+_Ostensibly a simple horsegirl racing anime_
 
 ### Final Thoughts
 
 The plotting is too scattered and characterization too rushed for this to rise above a 7/10.  Like Jungle Pocket, it's not winning every race.  But it doesn't have to win everything.  It pours its heart into the places it matters, and where it wins, it wins big.  It takes gambles and puts its artistic vision on the line.
+
+![Grit]({{ site.baseurl }}/assets/images/boane/grit.png)
+_Never gonna give you up_
 
 A 9/10 or 10/10 movie I can watch once, and understand what the cultural zeitgeist is like, and move on.  A 7/10 that has 4/10 moments and 12/10 moments... well, that tickles a fancy.
