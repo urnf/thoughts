@@ -1,7 +1,7 @@
 title: Tumbleweeds through gray matter
 description: Nothing more than idle ramblings
 domain: urnf.github.io
-baseurl: "/thoughts" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://urnf.github.io"
 
 # Build settings
