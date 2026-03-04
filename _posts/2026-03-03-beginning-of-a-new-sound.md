@@ -57,6 +57,6 @@ _Absolutely dusted_
 
 ### Final Thoughts
 
-This is a 7/10, and like Jungle Pocket, it's not winning every race.  The plotting is too scattered, and characterization too rushed.  But it doesn't have to win everything.  It pours its heart into the places it matters, and where it wins, it wins big.  It takes gambles and puts its artistic vision on the line in places that matter.
+The plotting is too scattered and characterization too rushed for this to rise above a 7/10.  Like Jungle Pocket, it's not winning every race.  But it doesn't have to win everything.  It pours its heart into the places it matters, and where it wins, it wins big.  It takes gambles and puts its artistic vision on the line in places that matter.
 
 A 9/10 or 10/10 movie I can watch once, and understand what the cultural zeitgeist is like, and move on.  A 7/10 that has 4/10 moments and 12/10 moments... well, that tickles a fancy.
