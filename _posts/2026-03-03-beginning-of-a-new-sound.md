@@ -21,7 +21,7 @@ _Images that you can hear_
 
 ### Umamusu... what?
 
-If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively a third gender of humans: horsegirls.  They want to run like horses and express horse ears and tails.  Every horsegirl is a reincarnated version of real race horse.  Horses do not exist in that world.  For some reason, they're also idols and perform concerts after races.  Yes, the marketing is also unfortunately towards an overwhelmingly male audience and I wish that wasn't the case because the franchise deserves better.
+If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively a third gender of humans: horsegirls, the "umamusume".  They want to run like horses and express horse ears and tails.  Every horsegirl is a reincarnated version of real race horse.  Horses do not exist in that world.  For some reason, they're also idols and perform concerts after races.  Yes, the marketing is also unfortunately towards an overwhelmingly male audience and I wish that wasn't the case because the franchise deserves better.
 
 The premise is aggressively dumb.  But I like dumb things, especially those that take the nonsensical and plays it straighter than the path through wormhole.  Like everyone else, my first reaction was "what the hell is going on?"  Humanity progresses a lot when we do dumb things and see what sticks.
 
