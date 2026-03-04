@@ -8,7 +8,6 @@ categories: honse
 ![RAAAAAAAAAAAAAAAGHHH]({{ site.baseurl }}/assets/images/boane/boanestart.png)
 
 ### A review of Umamusume: Pretty Derby - Beginning of a New Era
-### Foreword
 
 The premise of animation is that you _don't_ have to stick to real world rules.  You can have impossible fishbowl lens, tracking shots that make no sense, and reality that bends in such a way that even computer graphics would struggle to comprehend all the rules breaking.  It allows you to transfer from the canvas of the human mind directly onto film, and it can communicate emotion so incredibly effectively because of that.
 
