@@ -81,7 +81,7 @@ It truly feels like for a moment, TM Opera O is bending reality itself.
 
 Then she crosses the finish line, but it doesn't end there.
 
-The screeching wind and announcer's completely surreal, impossible barking of TM transitions merge together into a terrifyingly loud WHOOOOSH of her cape as she swings around and then diretcly moves into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
+The screeching wind and announcer's completely impossible barking merge together into a terrifyingly loud WHOOOOSH of her cape as she swings around and then diretcly moves into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
 
 ### Jungle Pocket's roar in the Japanese Derby
 ![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
