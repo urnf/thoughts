@@ -4,7 +4,9 @@ title:  "Beginning of a New Era in Sound Engineering"
 date:   2026-03-03 18:56:39 -0800
 categories: honse
 ---
-## The 7/10 movie I watched 6 times at the theater.  
+## The 7/10 movie I watched 6 times at the theater.
+![RAAAAAAAAAAAAAAAGHHH]({{ site.baseurl }}/assets/images/boane/boanestart.png)
+
 ### A review of Umamusume: Pretty Derby - Beginning of a New Era
 ### Foreword
 
