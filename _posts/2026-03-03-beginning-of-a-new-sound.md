@@ -73,13 +73,13 @@ I can't properly describe how incredible this sounds.  I'm trying to find clips 
 
 It's nothing but the sound of a grating wind, no soundtrack, and the race announcer barking in a surreal fashion.  
 
-And when she speeds up, the wind also picks up, and when the image starts to distort the sound _also_ distorts and becomes an intensely uncomfortable mix wind, announcer and we start entering a purely emotional representation completely disjointed from reality.
+And when she speeds up, the wind also picks up, and when the image starts to distort the sound _also_ distorts and becomes an deafening screech.  We start entering a purely emotional representation completely disjointed from reality.
 
 It truly feels like for a moment, TM Opera O is bending reality itself.
 
 Then she crosses the finish line, but it doesn't end there.
 
-The wind and announcer's completely surreal, impossible barking of TM transitions directly into the terrifyingly loud WHOOOOSH of her cape as she swings around and then diretly into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
+The screeching wind and announcer's completely surreal, impossible barking of TM transitions merge together into a terrifyingly loud WHOOOOSH of her cape as she swings around and then diretcly moves into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
 
 ### Jungle Pocket's roar in the Japanese Derby
 ![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
