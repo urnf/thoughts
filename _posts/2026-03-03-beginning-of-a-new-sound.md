@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beginning of a New Era in Sound Engineering"
+title:  "Beginning of a New Era in Sound Design"
 date:   2026-03-03 18:56:39 -0800
 categories: honse
 ---
