@@ -1,12 +1,11 @@
 title: Tumbleweeds through gray matter
 description: Nothing more than idle ramblings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
+domain: urnf.github.io
+baseurl: "/thoughts/" # the subpath of your site, e.g. /blog
+url: "https://urnf.github.io"
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
