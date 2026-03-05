@@ -7,7 +7,7 @@ categories: honse
 ## The 7/10 movie I watched 7 times at the theater.
 ![RAAAAAAAAAAAAAAAGHHH]({{ site.baseurl }}/assets/images/boane/boanestart.png)
 
-The premise of animation is that you _don't_ have to stick to real world rules.  You can have impossible fishbowl lens, tracking shots that make no sense, and reality that bends in such a way that even computer graphics would struggle to comprehend all the rules breaking.  It allows you to transfer from the canvas of the human mind directly onto film, and it can communicate emotion so incredibly effectively because of that.
+The premise of animation is that you _don't_ have to stick to real world rules.  You can have impossible fishbowl lenses, tracking shots that make no sense, and reality that bends in such a way that even computer graphics would struggle to comprehend all the rules being broken.  It allows you to transfer from the canvas of the human mind directly onto film, and it can communicate emotion so incredibly effectively because of that.
 
 Normally, that applies to the art direction with fantastical scenes.  The sound design is often more reserved as it becomes a foil to ground the imagery and avoid separating too hard from reality.
 
@@ -18,13 +18,13 @@ _Images that you can hear_
 
 ### Umamusu... what?
 
-If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively a third gender of humans: horsegirls, the "umamusume".  They have superhuman physical capabilities, want to run like horses, and express horse ears and tails.  Every horsegirl is a reincarnated version of real race horse.  Horses do not exist in that world.  
+If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively a third gender of humans: horsegirls, the "umamusume".  They have superhuman physical capabilities, want to run like horses, and express horse ears and tails.  Every horsegirl is a reincarnated version of a real race horse.  Horses do not exist in that world.  
 
 For some reason, they're also idols and perform concerts after races.  Yes, the marketing is also unfortunately towards an overwhelmingly male audience and I wish that wasn't the case because the franchise deserves better.
 
-The premise is aggressively dumb.  But I like dumb things, especially those that take the nonsensical and plays it straighter than the path through a wormhole.  Like everyone else, my first reaction was "what the hell is going on?"  Humanity progresses a lot when we do dumb things and see what sticks.
+The premise is aggressively dumb.  But I like dumb things, especially those that take the nonsensical and play it straighter than the path through a wormhole.  Like everyone else, my first reaction was "what the hell is going on?"  Humanity progresses a lot when we do dumb things and see what sticks.
 
-Small mention that the elements it's based off of - horse racing, gambling associated with that, idol culture, are problematic.  The setting does it absolute best to divest itself of those associations, but they are still there.  For example, gambling is not permitted at umamusume races.
+Small mention that the elements it's based off of - horse racing, gambling associated with that, idol culture, are problematic.  The setting does its absolute best to divest itself of those associations, but they are still there.  For example, gambling is not permitted at umamusume races.
 
 Because of that, and other reasons, this isn't an accessible movie.  Without knowledge of Japanese horse racing, you'll be left wondering why the stakes are so high for the athletes even if the time pressure and fear of injury is relatable.  And the cast of background characters loses all sentimental value if you aren't already familiar with them.
 
@@ -55,7 +55,7 @@ _Absolutely dusted_
 ![Splat]({{ site.baseurl }}/assets/images/boane/splat.png)
 _It wasn't meant to be personal, but it was really personal_
 
-Before this scene, the race defies a lot of expectations.  It leaves out all noise but the footsteps, wind, and announcer.  A bit of an eerie silence, that then further cuts out into a dull muted tension as soon as Jungle Pocket starts her spurt, which is interrupted by Agnes
+Before this scene, the race defies a lot of expectations.  It leaves out all noise but the footsteps, wind, and announcer.  A bit of an eerie silence, that then further cuts out into a dull muted tension as soon as Jungle Pocket starts her spurt, which is interrupted by Agnes.
 
 We get a long tonal shift down of the whistling wind as time and motion stops to show how far Agnes gets ahead until we reach absolute dead silence in the theater.
 
@@ -72,7 +72,7 @@ Leading up to this is the sound of the wind whipping against the camera, a passe
 ![Beyond the limits]({{ site.baseurl }}/assets/images/boane/unhinged.png)
 And that's before everything careens off the rails.
 
-The static merges into a new roar of a engine ramping up and glass reverberating - leading up into a ear-splitting shattering of glass with even more static buildup before it just... cuts out.
+The static merges into a new roar of an engine ramping up and glass reverberating - leading up into an ear-splitting shattering of glass with even more static buildup before it just... cuts out.
 
 Movies at the theater normally have a couple rules: don't play high pitched noises at a loud volume.  This breaks that rule briefly at a decisive moment to hammer in that sense of unease.
 
@@ -102,9 +102,11 @@ _AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA_
 
 Moments before this scene is Agnes Tachyon's uncertainty at the prospect of being surpassed by Jungle Pocket and hyōshigi (wooden clappers) slowly picking up the pace until it somehow morphs into a cricket like chirp of tension... before cutting out into a dull, muted cheer of the crowd.
 
-There's an intimate moment where Jungle Pocket, hunched over, breaths deeply several times before rising up to belt out a bonechilling scream.  Without taking another full breath, she screams again, and then once more for good measure.  While I praise the sound design, the voice actresses did an absolutely incredible job in this movie and communicated those emotions extraordinarily well.
+There's an intimate moment where Jungle Pocket, hunched over, breathes deeply several times before rising up to belt out a bonechilling, echoing scream.  
 
-Effective sound design communicates emotion more than anything else, and having been a student athlete long ago, it evoked very familiar sensations and experiences I thought was previously lost.
+Without taking another full breath, she screams again, and then once more for good measure.  While I praise the sound design, the voice actresses did an absolutely incredible job in this movie and communicated those emotions extraordinarily well.
+
+Effective sound design communicates emotion more than anything else, and having been a student athlete long ago, it evoked very familiar sensations and experiences I thought were previously lost.
 
 ### Jungle Pocket shattering her self doubt in the Japan Cup
 ![Not dragonball z]({{ site.baseurl }}/assets/images/boane/break3.png)
@@ -126,7 +128,7 @@ I never thought I'd live to see the day this was intentionally left in.  But her
 
 She passes the finish line - and all sound cuts out: going from peaking noise to total silence.  I've mentioned it before but the juxtaposition of volume is used sparingly, and judiciously, for incredible effect.
 
-I don't have anymore to say here.  I've seen the movie seven times now and I've rewritten this section five times now.  It's very difficult to describe how powerful these few seconds are.
+I don't have any more to say here.  I've seen the movie seven times now and I've rewritten this section five times now.  It's very difficult to describe how powerful these few seconds are.
 
 ### Final Thoughts
 
