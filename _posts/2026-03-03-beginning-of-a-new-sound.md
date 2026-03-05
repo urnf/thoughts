@@ -9,7 +9,7 @@ categories: honse
 
 The premise of animation is that you _don't_ have to stick to real world rules.  You can have impossible fishbowl lens, tracking shots that make no sense, and reality that bends in such a way that even computer graphics would struggle to comprehend all the rules breaking.  It allows you to transfer from the canvas of the human mind directly onto film, and it can communicate emotion so incredibly effectively because of that.
 
-Normally, that applies to the art direction with fantastical scenes.  The sound design is often more reserved, and becomes a foil to ground the imagery and avoid separating too hard from reality.
+Normally, that applies to the art direction with fantastical scenes.  The sound design is often more reserved as it becomes a foil to ground the imagery and avoid separating too hard from reality.
 
 Because of that, it's rare that I see sound design completely steal the show for realizing how absolutely bonkers the imagery is getting and not only playing along with it, but exceeding it entirely.
 
