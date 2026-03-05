@@ -114,8 +114,6 @@ While I praise the sound design, the voice actresses did an absolutely incredibl
 ![It's really not]({{ site.baseurl }}/assets/images/boane/break1.png)
 _Ostensibly a simple horsegirl racing anime_
 
-I've seen the movie seven times now and I've rewritten this section five times now.  It's very difficult to describe how powerful these few seconds are.
-
 Jungle Pocket reaches forward at her personified limits, takes hold, and splinters it into kaleidoscopic pieces after a full throated scream where the volume just keeps ramping and never stops.  
 
 The glass shattering is so loud that the sound full on peaks (sound smoothing out due to hitting the loudest, sharpest sound a sound system can handle).
@@ -129,6 +127,8 @@ But here, this is 100% intentional.  This is the sound engineer saying, "your pi
 I never thought I'd live to see the day this was intentionally put in.  But here I am.
 
 She passes the finish line - and all sound cuts out: going from peaking noise to total silence.  I've mentioned it before but the juxtaposition of volume is used sparingly, and judiciously, for incredible effect.
+
+I don't have anymore to say here.  I've seen the movie seven times now and I've rewritten this section five times now.  It's very difficult to describe how powerful these few seconds are.
 
 ### Final Thoughts
 
