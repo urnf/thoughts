@@ -65,11 +65,11 @@ Once that silence hits, we get the final insult to injury as a piece of mud flun
 
 Just pure deafening silence.
 
-### The vision of Agnes' foot breaking in the Yayoi Sho
+### The vision of Agnes' foot shattering in the Yayoi Sho
 ![Ouch]({{ site.baseurl }}/assets/images/boane/footbreak.png)
 _Ouch_
 
-Leading up to this is the sound of the wind whipping against the camera, a passenger jet flying overhead, and static flickering from the soundtrack that all converge into an absolutely indescribably combination of noise.  Despite what you see on the screen of Agnes winning, you're thrust into a cacophony that forces every sense of your body into a mode of "something is _very_ wrong here".
+Leading up to this is the sound of the wind whipping against the camera, a passenger jet flying overhead, and static flickering from the soundtrack all converging into an absolutely indescribable combination of noise.  Despite what you see on the screen of Agnes winning, you're thrust into a cacophony that forces every sense of your body into a mode of "something is _very_ wrong here".
 
 ![Beyond the limits]({{ site.baseurl }}/assets/images/boane/unhinged.png)
 And that's before everything careens off the rails.
@@ -86,27 +86,49 @@ _WHOOOOOOOOOOOOOOOOOOOOOOOOOSH_
 ![TMTMTMTMTM]({{ site.baseurl }}/assets/images/boane/tmoperagoat.png)
 _BLIIIIING_
 
-I can't properly describe how incredible this sounds.  I'm trying to find clips on youtube but they all have trash soundtracks layered on top, much akin to the Ecce Homo getting painted over.  
+I'm trying to find clips on youtube but they all have trash soundtracks layered on top, much akin to the Ecce Homo getting painted over.
 
-It's nothing but the sound of a grating wind, no soundtrack, and the race announcer barking in a surreal fashion.  
+We start with nothing but the sound of a grating wind, no soundtrack, and the race announcer barking in a surreal fashion.
 
-And when she speeds up, the wind also picks up, and when the image starts to distort the sound _also_ distorts and becomes an deafening screech.  We start entering a purely emotional representation completely disjointed from reality.
+And when she speeds up, the wind also picks up, and when the image starts to distort the sound _also_ distorts and becomes a deafening screech blasting off.  We start entering a purely emotional representation completely disjointed from reality.
 
-It truly feels like for a moment, TM Opera O is bending reality itself.
+It truly feels like for a moment, TM Opera O is bending reality itself.  
 
-Then she crosses the finish line, but it doesn't end there.
+This transitions to a hyperreal, trancelike chant of TM O, over and over again, until she crosses the finish line, but it doesn't end there.
 
-The screeching wind and announcer's completely impossible barking merge together into a terrifyingly loud WHOOOOSH of her cape as she swings around and then directly moves into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
+The announcer's completely impossible barking TM OPERA OOOOOOOOOOOOOO merges into a terrifyingly loud WHOOOOSH of her cape as she swings around and then directly moves into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
 
 ### Jungle Pocket's roar in the Japanese Derby
 ![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
 _AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA_
+
+Moments before this scene is Agnes Tachyon's uncertainty at the prospect of being surpassed by Jungle Pocket and hyōshigi (wooden clackers) slowly picking up the pace until it somehow morphs into a cricket like chirp of tension... before cutting out into a dull, muted cheer of the crowd.  There's an intimate moment where Jungle Pocket, hunched over, breaths deeply several times before rising up to belt out a bonechilling scream.  Without taking another full breath, she screams again, and then once more for good measure.  
+
+Effective sound design communicates emotion more than anything else, and having been a student athlete long ago, it evoked very familiar sensations and experiences I thought was previously lost.
+
+While I praise the sound design, the voice actresses did an absolutely incredible job in this movie, 
 
 ### Jungle Pocket shattering her self doubt in the Japan Cup
 ![Not dragonball z]({{ site.baseurl }}/assets/images/boane/break3.png)
 ![I swear]({{ site.baseurl }}/assets/images/boane/break2.png)
 ![It's really not]({{ site.baseurl }}/assets/images/boane/break1.png)
 _Ostensibly a simple horsegirl racing anime_
+
+I've seen the movie seven times now and I've rewritten this section five times now.  It's very difficult to describe how powerful these few seconds are.
+
+Jungle Pocket reaches forward at her personified limits, takes hold, and splinters it into kaleidoscopic pieces after a full throated scream where the volume just keeps ramping and never stops.  
+
+The glass shattering is so loud that the sound full on peaks (sound smoothing out due to hitting the loudest, sharpest sound a sound system can handle).
+
+And you start to hear gnarly, nasty crunching from the sound artifacts manifesting due to that peaking.  
+
+Alone, this sounds terrible, and normally this is an "oh no" moment where you realize the sound engineers fucked up and didn't properly tune sound levels.
+
+But here, this is 100% intentional.  This is the sound engineer saying, "your pitiful theater sound system can't handle how fabulously intense this sound is" because the crunching complements the shattering of Jungle Pocket's limits, so much so that if you didn't specifically pay attention to this you wouldn't hear it peg.  I only started to notice it was a full-on peak on later viewings and not an intentional effect.
+
+I never thought I'd live to see the day this was intentionally put in.  But here I am.
+
+She passes the finish line - and all sound cuts out: going from peaking noise to total silence.  I've mentioned it before but the juxtaposition of volume is used sparingly, and judiciously, for incredible effect.
 
 ### Final Thoughts
 
