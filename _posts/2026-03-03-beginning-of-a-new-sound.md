@@ -18,7 +18,7 @@ _Images that you can hear_
 
 ### Umamusu... what?
 
-If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively a third gender of humans: horsegirls, the "umamusume".  They have superhuman physical capabilities, want to run like horses, and express horse ears and tails.  Every horsegirl is a reincarnated version of a real race horse.  Horses do not exist in that world.  
+If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively an entirely separate subspecies of human: horsegirls, the "umamusume".  They have superhuman physical capabilities, want to run like horses, express horse ears and tails, and are exclusively female.  Every horsegirl is a reincarnated version of a real race horse.  Horses do not exist in that world.  
 
 For some reason, they're also idols and perform concerts after races.  Yes, the marketing is also unfortunately towards an overwhelmingly male audience and I wish that wasn't the case because the franchise deserves better.
 
