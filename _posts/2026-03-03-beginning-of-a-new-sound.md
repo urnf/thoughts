@@ -122,7 +122,7 @@ And you start to hear gnarly, nasty crunching from the sound artifacts manifesti
 
 Alone, this sounds terrible, and normally this is an "oh no" moment where you realize the sound engineers fucked up and didn't properly tune sound levels.
 
-But here, this is 100% intentional.  This is the sound engineer saying, "your pitiful theater sound system can't handle how fabulously intense this sound is" because the crunching complements the shattering of Jungle Pocket's limits, so much so that if you didn't specifically pay attention to this you wouldn't hear it peg.  I only started to notice it was a full-on peak on later viewings and not an intentional effect.
+But here, this is 100% intentional.  This is the sound engineer saying, "your pitiful theater sound system can't handle how fabulously intense this sound is" because the crunching complements the shattering of Jungle Pocket's limits, so much so that if you didn't specifically pay attention to this you wouldn't hear it peak.  I only started to notice it was a full-on peak on later viewings and not an intentional effect.
 
 I never thought I'd live to see the day this was intentionally put in.  But here I am.
 
