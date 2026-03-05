@@ -132,9 +132,9 @@ I don't have anymore to say here.  I've seen the movie seven times now and I've 
 
 ### Final Thoughts
 
-The plotting is too scattered and characterization too rushed for this to rise above a 7/10.  Like Jungle Pocket, it's not winning every race.  But it doesn't have to win everything.  It pours its heart into the places it matters, and where it wins, it wins big.  It commits to its bets with their artistic vision on the line.
+The plotting is too scattered and characterization too rushed for this to rise above a 7/10.  Like Jungle Pocket, it's not winning every race.  But it doesn't have to win everything.  It pours its heart into the places it matters, and where it wins, it wins big.  With its artistic vision on the line, it fully commits to its bets.
 
 ![Grit]({{ site.baseurl }}/assets/images/boane/grit.png)
 _Never gonna give you up, neigh_
 
-A 9/10 or 10/10 movie I can watch once understand what the cultural zeitgeist is like, and move on.  A 7/10 that has 4/10 moments and 12/10 moments... well, that tickles a fancy, especially since I'll likely never be able to see this again in the theater where the sound design truly shines.
+A 9/10 or 10/10 movie I can watch once, understand what the cultural zeitgeist is like, and move on.  A 7/10 that has 4/10 moments and 12/10 moments... well, that tickles a fancy, especially since I'll likely never be able to see this again in the theater where the sound design truly shines.
