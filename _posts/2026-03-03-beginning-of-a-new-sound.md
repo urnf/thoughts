@@ -18,7 +18,7 @@ _Images that you can hear_
 
 ### Umamusu... what?
 
-If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively an entirely separate subspecies of human: horsegirls, the "umamusume".  They have superhuman physical capabilities, want to run like horses, express horse ears and tails, and are exclusively female.  Every horsegirl is a reincarnated version of a real race horse.  Horses do not exist in that world.  
+If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively an entirely separate subspecies of human: horsegirls, the "umamusume".  They have superhuman physical capabilities, want to run like horses, express horse ears and tails, and are exclusively female.  Every horsegirl is a reincarnated version of a real racehorse.  Horses do not exist in that world.  
 
 For some reason, they're also idols and perform concerts after races.  Yes, the marketing is also unfortunately towards an overwhelmingly male audience and I wish that wasn't the case because the franchise deserves better.
 
@@ -116,17 +116,17 @@ _Ostensibly a simple horsegirl racing anime_
 
 Jungle Pocket reaches forward at her personified limits, takes hold, and splinters it into kaleidoscopic pieces after a full throated scream where the volume just keeps ramping and never stops.  
 
-The glass shattering is so loud that the sound full on peaks (sound smoothing out due to hitting the loudest, sharpest sound a sound system can handle).
+The glass shattering is so loud that the sound full on clips (sound smoothing out due to hitting the loudest, sharpest sound a sound system can handle).
 
-And you start to hear gnarly, nasty crunching from the sound artifacts manifesting due to that peaking.  
+And you start to hear gnarly, nasty crunching from the sound artifacts manifesting due to that clipping.  
 
 Alone, this sounds terrible, and normally this is an "oh no" moment where you realize the sound engineers fucked up and didn't properly tune sound levels.
 
-But here, this is 100% intentional.  This is the sound engineer saying, "your pitiful theater sound system can't handle how fabulously intense this sound is" because the crunching complements the shattering of Jungle Pocket's limits, so much so that if you didn't specifically pay attention to this you wouldn't hear it peak.  I only started to notice the peaking on later viewings and that it was not a directly added sound.
+But here, this is 100% intentional.  This is the sound engineer saying, "your pitiful theater sound system can't handle how fabulously intense this sound is" because the crunching complements the shattering of Jungle Pocket's limits, so much so that if you didn't specifically pay attention to this you wouldn't hear it clip.  I only started to notice the clipping on later viewings and that it was not a directly added sound.
 
 I never thought I'd live to see the day this was intentionally left in.  But here I am.
 
-She passes the finish line - and all sound cuts out: going from peaking noise to total silence.  I've mentioned it before but the juxtaposition of volume is used sparingly, and judiciously, for incredible effect.
+She passes the finish line - and all sound cuts out: going from clipping noise to total silence.  I've mentioned it before but the juxtaposition of volume is used sparingly, and judiciously, for incredible effect.
 
 I don't have any more to say here.  I've seen the movie seven times now and I've rewritten this section five times now.  It's very difficult to describe how powerful these few seconds are.
 
