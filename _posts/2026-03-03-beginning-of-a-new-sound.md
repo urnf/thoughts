@@ -118,7 +118,7 @@ _Ostensibly a simple horsegirl racing anime_
 
 Jungle Pocket reaches forward at her personified limits, takes hold, and splinters it into kaleidoscopic pieces after a full throated scream where the volume just keeps ramping and never stops.  
 
-The glass shattering is so loud that the sound full on clips (sound waves hitting the loudest, sharpest sound a sound device can handle).
+The glass shattering is so loud that the sound full on clips (sound waves hitting the loudest, sharpest sound an audio device can handle).
 
 And you start to hear gnarly, nasty crunching from the sound artifacts manifesting due to that clipping.  
 
