@@ -102,7 +102,7 @@ The announcer's completely impossible barking TM OPERA OOOOOOOOOOOOOO merges int
 ![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
 _AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA_
 
-Moments before this scene is Agnes Tachyon's uncertainty at the prospect of being surpassed by Jungle Pocket and hyōshigi (wooden clackers) slowly picking up the pace until it somehow morphs into a cricket like chirp of tension... before cutting out into a dull, muted cheer of the crowd.  There's an intimate moment where Jungle Pocket, hunched over, breaths deeply several times before rising up to belt out a bonechilling scream.  Without taking another full breath, she screams again, and then once more for good measure.  
+Moments before this scene is Agnes Tachyon's uncertainty at the prospect of being surpassed by Jungle Pocket and hyōshigi (wooden clappers) slowly picking up the pace until it somehow morphs into a cricket like chirp of tension... before cutting out into a dull, muted cheer of the crowd.  There's an intimate moment where Jungle Pocket, hunched over, breaths deeply several times before rising up to belt out a bonechilling scream.  Without taking another full breath, she screams again, and then once more for good measure.  
 
 Effective sound design communicates emotion more than anything else, and having been a student athlete long ago, it evoked very familiar sensations and experiences I thought was previously lost.
 
