@@ -4,7 +4,7 @@ title:  "Beginning of a New Era in Sound Design"
 date:   2026-03-03 18:56:39 -0800
 categories: honse
 ---
-## The 7/10 movie I watched 6 times at the theater.
+## The 7/10 movie I watched 7 times at the theater.
 ![RAAAAAAAAAAAAAAAGHHH]({{ site.baseurl }}/assets/images/boane/boanestart.png)
 
 The premise of animation is that you _don't_ have to stick to real world rules.  You can have impossible fishbowl lens, tracking shots that make no sense, and reality that bends in such a way that even computer graphics would struggle to comprehend all the rules breaking.  It allows you to transfer from the canvas of the human mind directly onto film, and it can communicate emotion so incredibly effectively because of that.
@@ -102,11 +102,11 @@ The announcer's completely impossible barking TM OPERA OOOOOOOOOOOOOO merges int
 ![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
 _AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA_
 
-Moments before this scene is Agnes Tachyon's uncertainty at the prospect of being surpassed by Jungle Pocket and hyōshigi (wooden clappers) slowly picking up the pace until it somehow morphs into a cricket like chirp of tension... before cutting out into a dull, muted cheer of the crowd.  There's an intimate moment where Jungle Pocket, hunched over, breaths deeply several times before rising up to belt out a bonechilling scream.  Without taking another full breath, she screams again, and then once more for good measure.  
+Moments before this scene is Agnes Tachyon's uncertainty at the prospect of being surpassed by Jungle Pocket and hyōshigi (wooden clappers) slowly picking up the pace until it somehow morphs into a cricket like chirp of tension... before cutting out into a dull, muted cheer of the crowd.
+
+There's an intimate moment where Jungle Pocket, hunched over, breaths deeply several times before rising up to belt out a bonechilling scream.  Without taking another full breath, she screams again, and then once more for good measure.  While I praise the sound design, the voice actresses did an absolutely incredible job in this movie and communicated those emotions extraordinarily well.
 
 Effective sound design communicates emotion more than anything else, and having been a student athlete long ago, it evoked very familiar sensations and experiences I thought was previously lost.
-
-While I praise the sound design, the voice actresses did an absolutely incredible job in this movie, 
 
 ### Jungle Pocket shattering her self doubt in the Japan Cup
 ![Not dragonball z]({{ site.baseurl }}/assets/images/boane/break3.png)
@@ -137,4 +137,4 @@ The plotting is too scattered and characterization too rushed for this to rise a
 ![Grit]({{ site.baseurl }}/assets/images/boane/grit.png)
 _Never gonna give you up, neigh_
 
-A 9/10 or 10/10 movie I can watch once, and understand what the cultural zeitgeist is like, and move on.  A 7/10 that has 4/10 moments and 12/10 moments... well, that tickles a fancy.
+A 9/10 or 10/10 movie I can watch once understand what the cultural zeitgeist is like, and move on.  A 7/10 that has 4/10 moments and 12/10 moments... well, that tickles a fancy, especially since I'll likely never be able to see this again in the theater where the sound design truly shines.
