@@ -42,7 +42,7 @@ _Nobody knows why I exist in the movie_
 
 It's the absolutely surreal sound design, standing out in 5 locations in particular that I'm going to do case study breakdowns of:
 - Agnes' spurt in the Hopeful Stakes
-- The vision of Agnes' foot breaking in the Satsuki Sho
+- The vision of Agnes' foot breaking in the Yayoi Sho
 - TM Opera O's victory in the Arima Kinen
 - Jungle Pocket's roar in the Japanese Derby
 - Jungle Pocket shattering her self doubt in the Japan Cup
