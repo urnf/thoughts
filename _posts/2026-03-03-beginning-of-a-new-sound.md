@@ -20,9 +20,9 @@ _Images that you can hear_
 
 If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In short, in an alternate version of the world, there is effectively an entirely separate subspecies of human: horsegirls, the "umamusume".  They have superhuman physical capabilities, want to run like horses, express horse ears and tails, and are exclusively female.  Every horsegirl is a reincarnated version of a real racehorse.  Horses do not exist in that world.  
 
-For some reason, they're also idols and perform concerts after races.  Yes, the marketing is also unfortunately towards an overwhelmingly male audience and I wish that wasn't the case because the franchise deserves better.
+For some reason, they're also idols and perform concerts after races.  Yes, the marketing is unfortunately geared towards an overwhelmingly male audience and I wish that wasn't the case because the franchise deserves better.
 
-The premise is aggressively dumb.  But I like dumb things, especially those that take the nonsensical and play it straighter than the path through a wormhole.  Like everyone else, my first reaction was "what the hell is going on?"  Humanity progresses a lot when we do dumb things and see what sticks.
+The premise is aggressively dumb.  But I like dumb things, especially those that take the nonsensical and play it straighter than the path through a wormhole.  Like everyone else, my first reaction was "what the hell is going on?" before remembering humanity progresses a lot when we do dumb things and see what sticks.
 
 That being said, it's worth a mention that the elements it's based off of - horse racing, gambling associated with that, idol culture - have problematic roots.  The setting does its absolute best to divest itself of those associations (for example, gambling is not permitted at umamusume races), but they are still there.
 
@@ -74,7 +74,7 @@ And that's before everything careens off the rails.
 
 The static merges into a new roar of an engine ramping up and glass reverberating - leading up into an ear-splitting shattering of glass with even more static buildup before it just... cuts out.
 
-Movies at the theater normally have a couple rules: don't play high pitched noises at a loud volume.  This breaks that rule briefly at a decisive moment to hammer in that sense of unease.
+Movies at the theater normally maintain an important audio rule: don't play high pitched noises at a loud volume.  This breaks that rule briefly at a decisive moment to hammer in that sense of unease.
 
 ### TM Opera O's victory in the Arima Kinen
 ![TMTMTMTMTM]({{ site.baseurl }}/assets/images/boane/tmoperagoat3.png)
@@ -96,6 +96,8 @@ This transitions to a hyperreal, trancelike chant of TM O, over and over again, 
 
 The announcer's completely impossible barking TM OPERA OOOOOOOOOOOOOO merges into a terrifyingly loud WHOOOOSH of her cape as she swings around and then directly moves into the shrill gleam of her crown.  I felt like I listened to the same note, in 5 different forms, within the span of 3 seconds.
 
+Without uttering a single word, purely from the art and sound design, TM Opera O has declared that at this moment there is no stronger horsegirl on Earth.
+
 ### Jungle Pocket's roar in the Japanese Derby
 ![AAAAAAAAAAAAAAAAAAAAA]({{ site.baseurl }}/assets/images/boane/junglescream.png)
 _AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA_
@@ -106,7 +108,7 @@ There's an intimate moment where Jungle Pocket, hunched over, breathes deeply se
 
 Without taking another full breath, she screams again, and then once more for good measure.  While I praise the sound design, the voice actresses did an absolutely incredible job in this movie and communicated those emotions extraordinarily well.
 
-Effective sound design communicates emotion more than anything else, and having been a student athlete long ago, it evoked very familiar sensations and experiences I thought were previously lost.
+Effective sound design is a core element of communicating emotion in animated movies, and having been a student athlete long ago, this scene evoked very familiar sensations and experiences I thought were long lost.
 
 ### Jungle Pocket shattering her self doubt in the Japan Cup
 ![Not dragonball z]({{ site.baseurl }}/assets/images/boane/break3.png)
@@ -116,7 +118,7 @@ _Ostensibly a simple horsegirl racing anime_
 
 Jungle Pocket reaches forward at her personified limits, takes hold, and splinters it into kaleidoscopic pieces after a full throated scream where the volume just keeps ramping and never stops.  
 
-The glass shattering is so loud that the sound full on clips (sound smoothing out due to hitting the loudest, sharpest sound a sound system can handle).
+The glass shattering is so loud that the sound full on clips (sound waves hitting the loudest, sharpest sound a sound device can handle).
 
 And you start to hear gnarly, nasty crunching from the sound artifacts manifesting due to that clipping.  
 
