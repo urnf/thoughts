@@ -24,9 +24,9 @@ For some reason, they're also idols and perform concerts after races.  Yes, the 
 
 The premise is aggressively dumb.  But I like dumb things, especially those that take the nonsensical and play it straighter than the path through a wormhole.  Like everyone else, my first reaction was "what the hell is going on?"  Humanity progresses a lot when we do dumb things and see what sticks.
 
-Small mention that the elements it's based off of - horse racing, gambling associated with that, idol culture, are problematic.  The setting does its absolute best to divest itself of those associations, but they are still there.  For example, gambling is not permitted at umamusume races.
+That being said, it's worth a mention that the elements it's based off of - horse racing, gambling associated with that, idol culture - have problematic roots.  The setting does its absolute best to divest itself of those associations (for example, gambling is not permitted at umamusume races), but they are still there.
 
-Because of that, and other reasons, this isn't an accessible movie.  Without knowledge of Japanese horse racing, you'll be left wondering why the stakes are so high for the athletes even if the time pressure and fear of injury is relatable.  And the cast of background characters loses all sentimental value if you aren't already familiar with them.
+Because of that history and reliance on pre-existing knowledge, this isn't an accessible movie.  Without knowledge of Japanese horse racing, you'll be left wondering why the stakes are so high for the athletes even if the time pressure and fear of injury is relatable.  And the cast of background characters loses all sentimental value if you aren't already familiar with them.
 
 ### OK, so what's so special then?
 
