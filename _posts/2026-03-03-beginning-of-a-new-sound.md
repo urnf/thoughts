@@ -22,13 +22,13 @@ If you don't know about the Umamusume franchise, uh, well... it's _weird_.  In s
 
 For some reason, they're also idols and perform concerts after races.  Yes, the marketing is unfortunately geared towards an overwhelmingly male audience and I wish that wasn't the case because the franchise deserves better.
 
-The premise is aggressively dumb.  But I like dumb things, especially those that take the nonsensical and play it straighter than the path through a wormhole.  Like everyone else, my first reaction was "what the hell is going on?" before remembering humanity progresses a lot when we do dumb things and see what sticks.
+The premise is aggressively dumb.  But I like dumb things, especially those that take the nonsensical and play it straighter than the path through a wormhole.  Like everyone else, my first reaction was "what the hell is going on?" before remembering humanity progresses a lot when we do dumb things and seeing what sticks.
 
 That being said, it's worth a mention that the elements it's based off of - horse racing, gambling associated with that, idol culture - have problematic roots.  The setting does its absolute best to divest itself of those associations (for example, gambling is not permitted at umamusume races), but they are still there.
 
 Because of that history and reliance on pre-existing knowledge, this isn't an accessible movie.  Without knowledge of Japanese horse racing, you'll be left wondering why the stakes are so high for the athletes even if the time pressure and fear of injury is relatable.  And the cast of background characters loses all sentimental value if you aren't already familiar with them.
 
-### OK, so what's so special then?
+### So what's so special then?
 
 It's not the visual design.  It's great, but you expect this for a big-budget anime movie production.
 
@@ -67,7 +67,7 @@ Once that silence hits, we get the final insult to injury as a piece of mud flun
 ![Ouch]({{ site.baseurl }}/assets/images/boane/footbreak.png)
 _Ouch_
 
-Leading up to this is the sound of the wind whipping against the camera, a passenger jet flying overhead, and static flickering from the soundtrack all converging into an absolutely indescribable combination of noise.  Despite what you see on the screen of Agnes winning, you're thrust into a cacophony that forces every sense of your body into a mode of "something is _very_ wrong here".
+Leading up to this is the sound of the wind whipping against the camera, a passenger jet flying overhead, and static flickering from the soundtrack all converging into an indescribable combination of noise.  Despite what you see on the screen of Agnes winning, you're thrust into a cacophony that forces every sense of your body into a mode of "something is _very_ wrong here".
 
 ![Beyond the limits]({{ site.baseurl }}/assets/images/boane/unhinged.png)
 And that's before everything careens off the rails.
